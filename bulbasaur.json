@@ -1,0 +1,22 @@
+{
+    "nombre": "Bulbasaur",
+    "id": 1,
+    "peso_kg": 6.9,
+    "altura_m": 0.7,
+    "imagen_frontal_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "tipos": [
+        "Grass",
+        "Poison"
+    ],
+    "habilidades": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "movimientos_principales": [
+        "Razor wind",
+        "Swords dance",
+        "Cut",
+        "Bind",
+        "Vine whip"
+    ]
+}
